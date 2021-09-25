@@ -5,8 +5,8 @@ Sahara Shrestha - Model Building
 
 Rajiv Nair - Video Analysis
 
-Twilio SMS Integration -
+Mohamad Al Saeed - Twilio SMS Integration
 
-IBM Cloud -
+Salini Pradhan - IBM Cloud
 
 Team Git: https://github.com/dxcim/Smart_Internz_Project
