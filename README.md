@@ -9,4 +9,10 @@ Mohamad Al Saeed - Twilio SMS Integration
 
 Salini Pradhan - IBM Cloud
 
-Team Git: https://github.com/dxcim/Smart_Internz_Project
+Google Drive Link with: 
+1. Dataset
+2. Model file (.h5)
+3. Presentation Video
+4. Demo Video
+
+https://drive.google.com/drive/folders/1jr68R7UMBNb1QOE2YLa89RWKnkfFI7Ab?usp=sharing
